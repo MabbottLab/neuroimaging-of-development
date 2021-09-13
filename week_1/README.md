@@ -4,7 +4,7 @@
     * MRIcron: https://www.nitrc.org/frs/?group_id=152  
     * BrainVoyager: https://www.brainvoyager.com/downloads/bv_edu_download.html 
 2. Explore the regions of a brain using MRIcron (mricron.exe): 
-    * Load an anatomical scan (`ch2.nii.gz`)  
+    * Load an anatomical brain template (`ch2.nii.gz`)  
     * Overlay different atlases to find left and right MNI coordinates of: 
       * Hippocampus;
       * Inferior frontal gyrus;
