@@ -1,6 +1,6 @@
 ## introduction to the course and overview of brain development in infancy and childhood
 
-1. Download software (MRIcron and BrainVoyager EDU) 
+1. Download software
     * MRIcron: https://www.nitrc.org/frs/?group_id=152  
     * BrainVoyager: https://www.brainvoyager.com/downloads/bv_edu_download.html 
 2. Explore the regions of a brain using MRIcron (mricron.exe): 
