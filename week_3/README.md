@@ -10,7 +10,7 @@ Today's tutorial has two parts:
 
 ### part 1: finding clues from structural scans
 
-This segment of the tutorial assumes you have already downloaded and extracted the dataset from the OneDrive folder sent out and have MRIcron. 
+This segment of the tutorial assumes you have already downloaded and extracted the dataset from the OneDrive folder sent out and have installed MRIcron. 
 
 | Scan(s) | Question(s) | 
 | --------|-------------|
@@ -22,3 +22,15 @@ This segment of the tutorial assumes you have already downloaded and extracted t
 
 ### part 2: structural MRI preprocessing
 
+This segment of the tutorial assumes you have the BrainVoyager EDU tutorial dataset and have installed BrainVoyager EDU. 
+  
+1. Load the T1-weighted anatomical scan of the sample participant.
+    * Open the program BrainVoyager EDU
+    * Click `File` > `Open NIfTI`
+    * Under the `GSGData` folder that you downloaded/extracted, open `GSGData/sub-01/ses-04/anat/sub-01_ses-04_acq-nondistorted_T1w.nii.gz`
+2. Find out some info about the properties of this scan from the pop-up windows (NIfTI Header, sub-01_ses-04_acq-nondistorted_T1w.json windows). 
+    * What is a NIfTI header and what is a JSON file?
+    * How many slices were used to acquire this scan? Find two ways to identify this.  
+    * What was the size of each voxel? 
+    * What were the dimensions of each slice in voxels? 
+ 
