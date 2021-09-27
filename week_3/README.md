@@ -28,9 +28,16 @@ This segment of the tutorial assumes you have the BrainVoyager EDU tutorial data
     * Open the program BrainVoyager EDU
     * Click `File` > `Open NIfTI`
     * Under the `GSGData` folder that you downloaded/extracted, open `GSGData/sub-01/ses-04/anat/sub-01_ses-04_acq-nondistorted_T1w.nii.gz`
-2. Find out some info about the properties of this scan from the pop-up windows (NIfTI Header, sub-01_ses-04_acq-nondistorted_T1w.json windows). 
-    * What is a NIfTI header and what is a JSON file?
-    * How many slices were used to acquire this scan? Find two ways to identify this.  
-    * What was the size of each voxel? 
-    * What were the dimensions of each slice in voxels? 
- 
+    * In a T1-weighted scan, how do the intensities relate to tissue class? 
+2. Find out some info about the properties of this scan from the NIfTI Header pop-up window. 
+    * What is a NIfTI header?
+    * How many slices were used to acquire this scan? 
+    * What was the matrix size (i.e., dimensions of each slice)?
+    * What was the size of each voxel?  
+3. Explore the impact of magnetic field inhomogeneities on a scan.
+    * Use the shortcut Ctrl+T to enlarge the saggital view of the brain. Navigate through the scan until you're on slice x = 108.  
+    * What are the intensity values at xyz = [108, 160, 102] and [108, 80, 70]? 
+    * Why is it important to have similar intensity values within the same tissue class?
+4. Correct the scan for field inhomogeneities. 
+    * Navigate to `Volumes` > `Inhomogeneity Correction, V16 Tools...`
+    * 
