@@ -1,4 +1,4 @@
-# PSY5311H · neuroimaging of development
+# PSY5311H · neuroimaging of development · 🧠
 
 The brain undergoes significant structural and functional change and development during childhood and adolescence.  This change is linked to the development of cognitive, social, and emotional functions. Various neuroimaging techniques and approaches allow the in vivo study of brain maturation and experience dependent brain plasticity from infancy through to adulthood. Current research in this emerging field will be presented, with a focus on the relations between age-related changes in the brain and cognitive development.  The course will include the presentation of a range of neuroimaging methods including MRI (e.g., fMRI, DTI, MTI, volumetric), EEG, and MEG and how neuroimaging can be used to inform our understanding of development in normal children and those with neurological compromise.
 
