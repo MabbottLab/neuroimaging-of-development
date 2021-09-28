@@ -20,6 +20,21 @@ Tutorial materials for particular weeks are organized into folders in this repos
 
 ### software
 
+| Software | Structural MRI | Diffusion MRI | Functional MRI | MEG | EEG | Statistics |
+| -------- | :------------: | :-----------: | :------------: | :-: | :-: | :--------: | 
+| [Statistical Parametric Mapping (SPM)](https://www.fil.ion.ucl.ac.uk/spm/) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [FMRIB Software Library (FSL)](https://fsl.fmrib.o[x.ac.uk/fsl/fslwiki) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [MRtrix3](https://www.mrtrix.org/) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [FieldTrip](https://www.fieldtriptoolbox.org/) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Advanced Normalization Tools (ANTs)](https://github.com/ANTsX/ANTs) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [MNE-Python](https://mne.tools/stable/index.html) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [MRIcron](https://www.nitrc.org/projects/mricron) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Analysis of Functional NeuroImages (AFNI)](https://afni.nimh.nih.gov/) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [BrainVoyager](https://brainvoyager.com/) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Brain Connectivity Toolbox (BCT)](https://www.nitrc.org/projects/bct) |   |  |  |  |  | ✔️ |
+
+
 ### pipelines
 
 ### walkthroughs
