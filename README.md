@@ -34,6 +34,7 @@ Tutorial materials for particular weeks are organized into folders in this repos
 | [BrainVoyager](https://brainvoyager.com/) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [BrainWave](https://cheynelab.utoronto.ca/requirements) |  |  |  | ✔️ |  | ✔️ |
 | [Brain Connectivity Toolbox (BCT)](https://www.nitrc.org/projects/bct) |   |  |  |  |  | ✔️ |
+| [NIPY](https://nipy.org/) |✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 
 ### pipelines
 
