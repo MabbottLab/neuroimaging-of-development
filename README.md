@@ -35,6 +35,7 @@ Tutorial materials for particular weeks are organized into folders in this repos
 | [BrainWave](https://cheynelab.utoronto.ca/requirements) |  |  |  | ✔️ |  | ✔️ |
 | [Brain Connectivity Toolbox (BCT)](https://www.nitrc.org/projects/bct) |   |  |  |  |  | ✔️ |
 | [NIPY](https://nipy.org/) |✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [brainIAK](https://brainiak.org/) | |  | ✔️ |  |  | ✔️ |
 
 ### pipelines
 
@@ -44,6 +45,12 @@ Tutorial materials for particular weeks are organized into folders in this repos
 | [fMRIPrep](https://fmriprep.org/en/stable/) |  |  | ✔️ |  |  |  |
 
 ### walkthroughs
+
+* [FSL neuroimaging course](https://open.win.ox.ac.uk/pages/fslcourse/website/online_materials.html)
+* [FSL introduction to shell scripting / bash](https://fsl.fmrib.ox.ac.uk/fslcourse/lectures/scripting/all.htm)
+* [FieldTrip tutorials](https://www.fieldtriptoolbox.org/tutorial/)
+* [Beginner DWI analysis tutorial from MRtrix](https://mrtrix.readthedocs.io/en/latest/getting_started/beginner_dwi_tutorial.html)
+* [MRI/ASL processing tutorials](https://andysbrainbook.readthedocs.io/en/latest/index.html)
 
 ### papers
 
