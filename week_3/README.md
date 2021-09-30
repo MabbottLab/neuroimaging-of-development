@@ -57,3 +57,10 @@ This segment of the tutorial assumes you have the BrainVoyager EDU tutorial data
 7. Check the alignment between the warped participant brain and the MNI template.
     * Go to `Volumes` > `3D Volume Tools` > `Full Dialog` (if you're in the minified window) > `Spatial Transf` and check off the `Show secondary VMR` option
     * ❓ Was the transformation to MNI space successful?
+
+#### references
+  
+Scans for part 1 of the tutorial are from the following OpenNeuro datasets:
+  * Day TKM, Madhyastha TM, Askren MK et al. Attention Network Test fMRI data for participants with Parkinson's disease and healthy elderly [version 1; peer review: 2 approved]. F1000Research 2019, 8:780 (https://doi.org/10.12688/f1000research.19288.1) 
+  * Richardson, H., Lisandrelli, G., Riobueno-Naylor, A., & Saxe, R. (2018). Development of the social brain from age three to twelve years. Nature communications, 9(1), 1027.
+  * Padmanabhan, A., Geier, C. F., Ordaz, S. J., Teslovich, T., & Luna, B. (2011). Developmental changes in brain function underlying the influence of reward processing on inhibitory control. Developmental cognitive neuroscience, 1(4), 517-529.
