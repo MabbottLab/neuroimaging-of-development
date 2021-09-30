@@ -61,6 +61,8 @@ This segment of the tutorial assumes you have the BrainVoyager EDU tutorial data
 #### references
   
 Scans for part 1 of the tutorial are from the following OpenNeuro datasets:
-  * Day TKM, Madhyastha TM, Askren MK et al. Attention Network Test fMRI data for participants with Parkinson's disease and healthy elderly [version 1; peer review: 2 approved]. F1000Research 2019, 8:780 (https://doi.org/10.12688/f1000research.19288.1) 
-  * Richardson, H., Lisandrelli, G., Riobueno-Naylor, A., & Saxe, R. (2018). Development of the social brain from age three to twelve years. Nature communications, 9(1), 1027.
-  * Padmanabhan, A., Geier, C. F., Ordaz, S. J., Teslovich, T., & Luna, B. (2011). Developmental changes in brain function underlying the influence of reward processing on inhibitory control. Developmental cognitive neuroscience, 1(4), 517-529.
+  * Trevor K. M. Day and Tara M. Madyastha and Peter Boord and Mary K. Askren and Thomas J. Montine and Thomas J. Grabowski (2019). ANT: Healthy aging and Parkinson's disease. OpenNeuro. [Dataset] 
+  * Richardson, Hilary and Lisandrelli, Grace and Riobueno-Naylor, Alexa and Saxe, Rebecca (2019). MRI data of 3-12 year old children and adults during viewing of a short animated film. OpenNeuro. [Dataset] 
+  * Aarthi Padmanabhana and Charles F. Geier and Sarah J. Ordaz and Theresa Teslovich and Beatriz Luna (2018). Developmental changes in brain function underlying the influence of reward processing on inhibitory control (Slot Reward). OpenNeuro. [Dataset]
+  * Richardson, Hilary and Lisandrelli, Grace and Riobueno-Naylor, Alexa and Saxe, Rebecca (2019). MRI data of 3-12 year old children and adults during viewing of a short animated film. OpenNeuro. [Dataset] 
+  * Thompson WH* and Nair R* and Oya H* and Esteban O and Shine JM and Petkov CI and Poldrack RA and Howard M and Adolphs Râ  and *equally contributing, â corresponding author (2021). Human es-fMRI Resource: Concurrent deep-brain stimulation and whole-brain functional MRI. OpenNeuro. [Dataset] doi: 10.18112/openneuro.ds002799.v1.0.4
