@@ -9,7 +9,9 @@ The brain undergoes significant structural and functional change and development
 
 ## how to navigate this repo
 
-Tutorial materials for particular weeks are organized into folders in this repository. Each folder's landing page also includes a description of the tutorial task for that week. On this page, we include supplemental resources that the reader may find useful in their neuroimaging journey. This repository will remain live even after the course is finished, so feel free to bookmark and refer back as needed!
+Tutorial materials for particular weeks are organized into folders in this repository. Each folder's landing page also includes tutorial instructions for that week. On this page, we include supplemental resources that the reader may find useful in their neuroimaging journey. This repository will remain live even after the course is finished, so feel free to bookmark and refer back as needed!
+
+Tutorials for T1 and functional MRI processing are adapted from the BrainVoyagerEDU Getting Started Guide's Houses vs. Faces tutorial. 
 
 ## questions? email us:
 * [Don Mabbott](donald.mabbott@sickkids.ca) (instructor)
