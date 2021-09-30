@@ -22,11 +22,11 @@ Today's tutorial has two parts:
 ### answer key for fill in the modality blank
 
 #### part 1
-1. Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. Journal of neuroscience, 17(11), 4302-4311.
-2. Spiess, M., Bernardi, G., Kurth, S., Ringli, M., Wehrle, F. M., Jenni, O. G., ... & Siclari, F. (2018). How do children fall asleep? A high-density EEG study of slow waves in the transition from wake to sleep. Neuroimage, 178, 23-35.
-3. Garcés, P., Pineda-Pardo, J. Á., Canuet, L., Aurtenetxe, S., López, M. E., Marcos, A., ... & Maestú, F. (2014). The Default Mode Network is functionally and structurally disrupted in amnestic mild cognitive impairment—A bimodal MEG–DTI study. NeuroImage: Clinical, 6, 214-221.
+1. (fMRI) Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. Journal of neuroscience, 17(11), 4302-4311.
+2. (EEG) Spiess, M., Bernardi, G., Kurth, S., Ringli, M., Wehrle, F. M., Jenni, O. G., ... & Siclari, F. (2018). How do children fall asleep? A high-density EEG study of slow waves in the transition from wake to sleep. Neuroimage, 178, 23-35.
+3. (DWI, MEG) Garcés, P., Pineda-Pardo, J. Á., Canuet, L., Aurtenetxe, S., López, M. E., Marcos, A., ... & Maestú, F. (2014). The Default Mode Network is functionally and structurally disrupted in amnestic mild cognitive impairment—A bimodal MEG–DTI study. NeuroImage: Clinical, 6, 214-221.
 
 #### on your own time
-1. Pannek, K., Fripp, J., George, J. M., Fiori, S., Colditz, P. B., Boyd, R. N., & Rose, S. E. (2018). Fixel-based analysis reveals alterations is brain microstructure and macrostructure of preterm-born infants at term equivalent age. NeuroImage: Clinical, 18, 51-59.
-2. Grohs, M. N., Lebel, C., Carlson, H. L., Craig, B. T., & Dewey, D. (2021). Subcortical brain structure in children with developmental coordination disorder: A T1-weighted volumetric study. Brain Imaging and Behavior, 1-10.
-3. Wetter, N. C., Hubbard, E. A., Motl, R. W., & Sutton, B. P. (2016). Fully automated open‐source lesion mapping of T2‐FLAIR images with FSL correlates with clinical disability in MS. Brain and behavior, 6(3), e00440.
+1. (DWI) Pannek, K., Fripp, J., George, J. M., Fiori, S., Colditz, P. B., Boyd, R. N., & Rose, S. E. (2018). Fixel-based analysis reveals alterations is brain microstructure and macrostructure of preterm-born infants at term equivalent age. NeuroImage: Clinical, 18, 51-59.
+2. (T1) Grohs, M. N., Lebel, C., Carlson, H. L., Craig, B. T., & Dewey, D. (2021). Subcortical brain structure in children with developmental coordination disorder: A T1-weighted volumetric study. Brain Imaging and Behavior, 1-10.
+3. (T2) Wetter, N. C., Hubbard, E. A., Motl, R. W., & Sutton, B. P. (2016). Fully automated open‐source lesion mapping of T2‐FLAIR images with FSL correlates with clinical disability in MS. Brain and behavior, 6(3), e00440.
