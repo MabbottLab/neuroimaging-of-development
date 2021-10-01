@@ -82,8 +82,8 @@
       * Open the design matrix file you just saved in a text editor. 
       * ❓ What are the dimensions of the design matrix? How do they relate to the predictors and time?
 10. Run the GLM on your functional data.
-      * Select `Analysis` > `General Linear Model: Single Study`
-      * Load the FacesHousesDesignMatrix.sdm design matrix file that we generated in step 5. 
+      * (If the GLM dialog was closed, re-open by selecting `Analysis` > `General Linear Model: Single Study`)
+      * (Load the FacesHousesDesignMatrix.sdm design matrix file that we generated in step 5.)
       * Click GO to run the GLM. 
 11. Investigate the results of your GLM
       * A window titled Voxel Beta Plot pops up. ❓ What’s the meaning of the y- and x-axes?
@@ -98,10 +98,10 @@
 12.	Investigate Faces vs. Houses and find the peak voxel of a cluster.
       * Set all Face conditions to `+` and all House conditions to `-`, then click GO. 
       * ❓ What is the meaning of the new blob configuration on the anatomical scan? 
-      * Go to `Volumes` > `Convert Map to VOIs`, select `Create VOI for each cluster`.
+      * Go to `Options` > `Convert Map Clusters to VOIs`, select `Create VOI for each cluster`.
       * In the resulting pop-up dialog, click `Options` and switch to the `VOI Functions` tab. 
       * Click `Table…` under `VOI map peak voxels` to pull up a table containing peak MNI coordinates, as well as t- and p-values associated with the peak voxel. 
-      * Click one of the cluster entries, then the Show Voxel button to move your crosshair to its location on the anatomical scan. 
+      * Click one of the cluster entries, then the `Show Voxel` button to move your crosshair to its location on the anatomical scan. 
       * Using MRIcron, look up the AAL regions associated with the peak MNI coordinates of each cluster. 
       * Using NeuroSynth, look up study associations for the peak MNI coordinates of a cluster. 
 
