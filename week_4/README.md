@@ -1,5 +1,7 @@
 ## fMRI in development
 
+Adapted from the BrainVoyager EDU GSG tutorial, see PDF in this week's folder for the full version.
+
 ### part 1: probe the functional data
 
 1.	Load the *.nii.gz file for the functional data and find some info about the scan through the pop-up dialogs. 
