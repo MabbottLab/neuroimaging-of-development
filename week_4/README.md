@@ -76,7 +76,7 @@
       * Verify that the linking has worked by right-clicking somewhere in the anatomical scan and selecting `Show ROI Time Course`. The functional data should pop up! 
 9. Set up the design matrix for the GLM.
       * With the processed data file active (check the tab name), navigate to Analysis > General Linear Model: Single Study. 
-      * Right-click on the colour bar associated with your first condition to define the first predictor. Click HRF to apply the HRF function to the boxcar and account for HRF delay. Repeat for each of the 6 conditions.
+      * Right-click on the colour bar associated with your first condition to define the first predictor. Click HRF to apply the HRF function to the boxcar and account for HRF delay. Click "Add Pred" to move onto the next condition/predictor. Repeat for each of the 6 conditions.
       * Click “Show all” in the predictors box to show the whole protocol. 
       * Save the matrix as FacesHousesDesignMatrix.sdm by pressing the ‘Save…’ button in the Single Study General Linear Model button. 
       * Open the design matrix file you just saved in a text editor. 
