@@ -53,6 +53,7 @@ Tutorials for T1 and functional MRI processing are adapted from the BrainVoyager
 * [FieldTrip tutorials](https://www.fieldtriptoolbox.org/tutorial/)
 * [Beginner DWI analysis tutorial from MRtrix](https://mrtrix.readthedocs.io/en/latest/getting_started/beginner_dwi_tutorial.html)
 * [MRI/ASL processing tutorials](https://andysbrainbook.readthedocs.io/en/latest/index.html)
+* [BATMAN diffusion MRI tutorial](https://osf.io/pm9ba/download)
 
 ### papers
 
